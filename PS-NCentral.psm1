@@ -9,7 +9,6 @@
 ## Uses the SOAP-API of N-Central(c) by Solarwinds
 ## Completely written in PowerShell for easy reference/analysis.
 ##
-##
 
 ##Copyright 2020 Tosch Automatisering
 ##
